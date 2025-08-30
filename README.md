@@ -7,12 +7,12 @@ To make this technology accessible, SmartEV includes an intuitive Streamlit inte
 
 Key project highlights:
 
-Deep learning with Keras-based ANN for precision battery life estimation 🧠
+-Deep learning with Keras-based ANN for precision battery life estimation 🧠
 
-Utilization of a reputable NASA battery dataset for realistic training and validation 📚
+-Utilization of a reputable NASA battery dataset for realistic training and validation 📚
 
-User-friendly real-time predictions through Streamlit interactive UI 🎛️
+-User-friendly real-time predictions through Streamlit interactive UI 🎛️
 
-Focus on sustainable electric vehicle operation and resource efficiency ♻️
+-Focus on sustainable electric vehicle operation and resource efficiency ♻️
 
 SmartEV Battery Lifespan Predictor exemplifies the fusion of AI and renewable energy, driving smarter, greener transportation solutions for the future 🚗💡.
